@@ -1,0 +1,16 @@
+.footer {
+  background-color: #151948;
+}
+.footer-icon {
+  background-color: #292e6d;
+  padding: 8px;
+  border-radius: 5px;
+}
+.footer-icon:hover {
+  color: #ff9900;
+}
+.input-bg {
+  border: 2px solid #292e6d;
+  background-color: #151948;
+  border-radius: 5px;
+}

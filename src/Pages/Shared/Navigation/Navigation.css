@@ -1,0 +1,8 @@
+.nav-icon-color {
+  color: #ff9900;
+}
+
+.nav-link:hover {
+  color: #ff9900 !important;
+  transition: 1s;
+}

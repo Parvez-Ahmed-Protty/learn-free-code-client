@@ -1,0 +1,5 @@
+.btn-banner:hover {
+  transition: 1s;
+  background-color: #ff9900;
+  border-color: #ff9900;
+}
